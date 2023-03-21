@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    background-color: aqua;
+    padding: 50px;
+    text-align: center;
+}
+input{
+    width: 200px;
+    margin: 10px 0px;
+    padding: 10px;
+}
+.error{
+    color: red;
+    margin: 0px;
+    text-align: center;
+}
